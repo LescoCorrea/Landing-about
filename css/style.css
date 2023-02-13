@@ -1,0 +1,28 @@
+
+.avatar{
+    width: 25rem;
+    height: 30rem;
+}
+.blog{
+    margin-top: 5rem;
+    border: 15px solid #f0c607;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+.blog h6{
+    font-weight: bold;
+    text-align: right;
+}
+.blog h1{
+    font-weight: bold;
+    text-align: right;
+}
+
+.par1 p{
+    color: grey;
+    font-weight: 500;
+}
+.par2 p{
+    color: rgb(29, 29, 29);
+    font-weight: 700;
+}
